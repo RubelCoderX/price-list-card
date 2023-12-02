@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Starter Plan",
+      "price": 19.99,
+      "features": ["Basic Features", "Email Support", "No Advanced Analytics", "Monthly Reports"]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 29.99,
+      "features": ["Enhanced Features", "Priority Support", "Basic Analytics", "Quarterly Reports"]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 39.99,
+      "features": ["Premium Features", "24/7 Support", "Advanced Analytics", "Real-time Dashboard", "Customizable Reports"]
+    }
+  ]
+  
